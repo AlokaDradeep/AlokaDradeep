@@ -5,7 +5,7 @@ QUICK SETUP
 1. Replace EVERY occurrence of YOUR_GITHUB_USERNAME with your GitHub username.
 2. Save this file as README.md in your public profile repository.
    The profile repository name must exactly match your GitHub username.
-3. Add your real contact links in the commented Connect block below.
+3. Your LinkedIn link is configured. Optionally add your email in the Connect block.
 4. Personalize the learning interests and tools to match your actual experience.
 
 The animations are remote SVG images; no JavaScript or Actions setup is required.
@@ -38,6 +38,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 <a href="#-about-me">About</a>  · 
 <a href="#-machine-learning-lab">ML Lab</a>  · 
 <a href="#-technology-playground">Tech Stack</a>  · 
+<a href="#-certifications">Certifications</a>  · 
 <a href="#-github-activity">Activity</a>  · 
 <a href="#-lets-connect">Connect</a>
 </div>
@@ -155,6 +156,17 @@ Project idea	What I want to explore
 </div>
 
 
+🎓 Certifications
+<div align="center">
+
+<p>Visit my LinkedIn profile for my licenses, certifications and professional updates.</p>
+
+<a href="https://www.linkedin.com/in/aloka-pradeep-644251238/"><img src="https://img.shields.io/badge/VIEW_MY_LINKEDIN_PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View Aloka Pradeep's LinkedIn profile and certifications" /></a>
+</div>
+
+<!-- This is a link to LinkedIn, not an automatic import of certification data. -->
+
+
 📈 GitHub Activity
 <!-- Replace YOUR_GITHUB_USERNAME before publishing these cards. -->
 
@@ -182,8 +194,8 @@ Project idea	What I want to explore
 <p>Interested in <b>AI, Machine Learning or Software Development</b>?<br />Let's connect, exchange ideas and keep learning.</p>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
-<!-- Uncomment after replacing the contact placeholders with your real details.
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/aloka-pradeep-644251238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aloka Pradeep on LinkedIn" /></a>
+<!-- Uncomment after replacing YOUR_EMAIL with your real email address.
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 -->
 
