@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Aloka Pradeep: AI, machine learning and software engineering">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111F"/><stop offset="1" stop-color="#122B36"/></linearGradient><linearGradient id="line"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#23434C"/>
+<circle cx="36" cy="29" r="5" fill="#FB7185"/><circle cx="55" cy="29" r="5" fill="#FBBF24"/><circle cx="74" cy="29" r="5" fill="#5EEAD4"/>
+<text x="98" y="34" fill="#8CA8B6" font-family="monospace" font-size="12">aloka / engineering-lab</text>
+<path d="M30 51H1170" stroke="#23434C"/>
+<text x="57" y="104" fill="#5EEAD4" font-family="monospace" font-size="14" letter-spacing="3">CURIOSITY. CODE. CONTINUOUS GROWTH.</text>
+<text x="54" y="174" fill="#F1F5F9" font-family="Arial,sans-serif" font-weight="700" font-size="58">ALOKA PRADEEP</text>
+<text x="57" y="215" fill="#A5B9C7" font-family="Arial,sans-serif" font-size="20">Artificial Intelligence / Machine Learning / Software</text>
+<rect x="57" y="249" width="334" height="41" rx="8" fill="#143B3B" stroke="#246158"/>
+<text x="75" y="275" fill="#99F6E4" font-family="monospace" font-size="14">&gt; learn · experiment · build</text>
+<rect x="404" y="259" width="9" height="20" fill="#5EEAD4"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/></rect>
+<text x="57" y="328" fill="#6F919E" font-family="monospace" font-size="12">EXPLORING INTELLIGENCE. ENGINEERING POSSIBILITIES.</text>
+<path d="M843 120L945 88" stroke="#2B6969" opacity=".52"/>
+<path d="M843 120L945 150" stroke="#2B6969" opacity=".52"/>
+<path d="M843 120L945 212" stroke="#2B6969" opacity=".52"/>
+<path d="M843 120L945 274" stroke="#2B6969" opacity=".52"/>
+<path d="M843 180L945 88" stroke="#2B6969" opacity=".52"/>
+<path d="M843 180L945 150" stroke="#2B6969" opacity=".52"/>
+<path d="M843 180L945 212" stroke="#2B6969" opacity=".52"/>
+<path d="M843 180L945 274" stroke="#2B6969" opacity=".52"/>
+<path d="M843 240L945 88" stroke="#2B6969" opacity=".52"/>
+<path d="M843 240L945 150" stroke="#2B6969" opacity=".52"/>
+<path d="M843 240L945 212" stroke="#2B6969" opacity=".52"/>
+<path d="M843 240L945 274" stroke="#2B6969" opacity=".52"/>
+<path d="M945 88L1050 120" stroke="#2B6969" opacity=".52"/>
+<path d="M945 88L1050 180" stroke="#2B6969" opacity=".52"/>
+<path d="M945 88L1050 240" stroke="#2B6969" opacity=".52"/>
+<path d="M945 150L1050 120" stroke="#2B6969" opacity=".52"/>
+<path d="M945 150L1050 180" stroke="#2B6969" opacity=".52"/>
+<path d="M945 150L1050 240" stroke="#2B6969" opacity=".52"/>
+<path d="M945 212L1050 120" stroke="#2B6969" opacity=".52"/>
+<path d="M945 212L1050 180" stroke="#2B6969" opacity=".52"/>
+<path d="M945 212L1050 240" stroke="#2B6969" opacity=".52"/>
+<path d="M945 274L1050 120" stroke="#2B6969" opacity=".52"/>
+<path d="M945 274L1050 180" stroke="#2B6969" opacity=".52"/>
+<path d="M945 274L1050 240" stroke="#2B6969" opacity=".52"/>
+<path d="M1050 120L1130 180" stroke="#2B6969" opacity=".52"/>
+<path d="M1050 180L1130 180" stroke="#2B6969" opacity=".52"/>
+<path d="M1050 240L1130 180" stroke="#2B6969" opacity=".52"/>
+<circle cx="843" cy="120" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="843" cy="180" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="843" cy="240" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="945" cy="88" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="945" cy="150" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="945" cy="212" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.8999999999999999s" repeatCount="indefinite"/></circle>
+<circle cx="945" cy="274" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="120" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="180" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.8999999999999999s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="240" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1130" cy="180" r="7" fill="#5EEAD4"><animate attributeName="opacity" values=".35;1;.35" dur="3s" begin="0.8999999999999999s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#ECFEFF"><animateMotion path="M843 180 L945 88 L1050 180 L1130 180" dur="3.8s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#ECFEFF"><animateMotion path="M843 180 L945 150 L1050 180 L1130 180" dur="3.8s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#ECFEFF"><animateMotion path="M843 180 L945 212 L1050 180 L1130 180" dur="3.8s" begin="2.4s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="155" viewBox="0 0 1200 155" role="img" aria-label="GitHub activity dashboard decorative animated heading">
+<defs><linearGradient id="g"><stop stop-color="#102D32"/><stop offset="1" stop-color="#0B1523"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="153" rx="18" fill="url(#g)" stroke="#254652"/>
+<text x="40" y="43" fill="#5EEAD4" font-family="monospace" font-size="12" letter-spacing="3">THE BUILD LOG</text>
+<text x="38" y="89" fill="#F1F5F9" font-family="Arial,sans-serif" font-size="35" font-weight="700">Every contribution tells a story.</text>
+<text x="40" y="122" fill="#90AAB8" font-family="monospace" font-size="13">CONTRIBUTIONS / CONSISTENCY / CODE</text>
+<g transform="translate(875 30)"><circle cx="60" cy="48" r="39" stroke="#286365" fill="none"/><circle cx="60" cy="48" r="25" stroke="#286365" fill="none"/><path d="M60 8V88M20 48H100" stroke="#286365"/>
+<g><path d="M60 48L60 9" stroke="#5EEAD4" stroke-width="3"/><circle cx="60" cy="9" r="4" fill="#D1FAE5"/><animateTransform attributeName="transform" type="rotate" from="0 60 48" to="360 60 48" dur="8s" repeatCount="indefinite"/></g>
+<circle cx="60" cy="48" r="5" fill="#5EEAD4"/>
+<circle cx="139" cy="25" r="5" fill="#5EEAD4"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="177" cy="48" r="5" fill="#60A5FA"><animate attributeName="opacity" values=".25;1;.25" dur="3s" begin=".6s" repeatCount="indefinite"/></circle>
+<circle cx="139" cy="71" r="5" fill="#5EEAD4"><animate attributeName="opacity" values=".25;1;.25" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle>
+<path d="M104 48L139 25L177 48L139 71Z" fill="none" stroke="#286365"/></g>
+</svg>
